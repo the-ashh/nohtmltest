@@ -2,10 +2,6 @@ html {
   background: #181a1b;
   padding: 1em;
 }
-#tiny {
-  size: 0px !important;
-  text-indent: -9999px;
-}
 body {
   border: 5px dashed #eee;
   color: #fff;
@@ -17,3 +13,7 @@ body {
 body::after {
   content: "omg whatever you do don't curl https://funny.theash.xyz :flushed:";
 }
+#tiny {
+    size: 0px !important;
+    text-indent: -9999px;
+  }
