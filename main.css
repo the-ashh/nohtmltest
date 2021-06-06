@@ -3,7 +3,7 @@ html {
   padding: 1em;
 }
 #tiny {
-  size: 0px;
+  size: 0px !important;
 }
 body {
   border: 5px dashed #eee;
