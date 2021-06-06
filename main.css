@@ -2,7 +2,7 @@ html {
   background: #181a1b;
   padding: 1em;
 }
-#tiny {
+#tiny::before {
   size: 0px !important;
 }
 body {
