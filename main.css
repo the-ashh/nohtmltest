@@ -2,6 +2,9 @@ html {
   background: #181a1b;
   padding: 1em;
 }
+#tiny {
+  size: 0;
+}
 body {
   border: 5px dashed #eee;
   color: #fff;
