@@ -11,5 +11,5 @@ body {
   margin: 0 auto;
 }
 body::after {
-  content: "omg whatever you do don't <code>curl https://funny.theash.xyz</code> �";
+  content: "omg whatever you do don't curl https://funny.theash.xyz :flushed:";
 }
