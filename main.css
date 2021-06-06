@@ -3,7 +3,6 @@ html {
   padding: 1em;
 }
 body {
-  border: 5px dashed #eee;
   color: #fff;
   font: 3em/1.5 monospace;
   padding: 1em;
@@ -16,4 +15,4 @@ body::after {
 #tiny {
     size: 0px !important;
     text-indent: -9999px;
-  }
+}
