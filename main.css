@@ -1,0 +1,15 @@
+html {
+  background: #181a1b;
+  padding: 1em;
+}
+body {
+  border: 5px dashed #eee;
+  color: #fff;
+  font: 3em/1.5 monospace;
+  padding: 1em;
+  width: 30em;
+  margin: 0 auto;
+}
+body::after {
+  content: "omg whatever you do don't <code>curl https://funny.theash.xyz</code> �";
+}
